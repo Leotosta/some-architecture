@@ -1,0 +1,2 @@
+O Factory Method permite que uma classe deleguem a responsabilidade de criar objetos para suas subclasses, 
+permitindo que as subclasses forneçam implementações diferentes desse método e assim, criem objetos de classes diferentes.
