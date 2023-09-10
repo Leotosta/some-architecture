@@ -8,7 +8,8 @@
     "singleton": "tsx watch ./src/creational/singleton/server.ts",
     "factory": "tsx watch ./src/creational/factory/server.ts",
     "abstract": "tsx watch ./src/creational/abstract/server.ts",
-    "bridge": "tsx watch ./src/structural/server.ts",
+    "bridge": "tsx watch ./src/structural/bridge/server.ts",
+    "strategy": "tsx watch ./src/behavioral/strategy/server.ts",
     "build": "tsup src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
